@@ -9,5 +9,7 @@ public class EclicpseTest {
    public void methondA() { 
 	// this is from remote repository
 }
-   
+   public void methondb() { 
+		// this second is from remote repository
+}
 }
