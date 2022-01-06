@@ -6,6 +6,8 @@ public class EclicpseTest {
       // this is test 
 		// this is the second change
 	}
-Public void methsond() { 
+   public void methondA() { 
 	// this is from remote repository
+}
+   
 }
